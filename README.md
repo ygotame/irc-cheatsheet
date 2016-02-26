@@ -13,14 +13,19 @@ Link : https://github.com/weechat/weechat
 ## IRC common command
 
 Connect to server :  /connect irc.server.com
+
 Join the channel :   /join channelName
+
 Leave current channel : /leave
+
 Leave the channel :  /leave channel
 
 Who is the user :/whois username
-Who was that user : /whowas username
-Notify when user login : /notify username
-Send private message to a user : /msg username Hello my friend. 
 
+Who was that user : /whowas username
+
+Notify when user login : /notify username
+
+Send private message to a user : /msg username Hello my friend. 
 
 Quit IRC : /quit
