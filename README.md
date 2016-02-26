@@ -3,12 +3,11 @@ Basic command and tips to use irc.
 
 ## IRC CLI Clients 
 
-1. IRSSI : Irssi is a terminal based IRC client for UNIX systems. It also supports SILC and ICB protocols via plugins
-    Link : https://github.com/irssi/irssi
+    1. Irssi : Irssi is a terminal based IRC client for UNIX systems. It also supports SILC and ICB protocols via plugins Link :              https://github.com/irssi/irssi
 
-2. WEECHAT: WeeChat is designed to be light and extensible: a lightweight core with optional plugins. 
-Plugins and scripts can be dynamically loaded and unloaded at any time.
-Link : https://github.com/weechat/weechat
+    2. Weechat: WeeChat is designed to be light and extensible: a lightweight core with optional plugins. 
+    Plugins and scripts can be dynamically loaded and unloaded at any time.
+    Link : https://github.com/weechat/weechat
 
 ## IRC common command
 
